@@ -25,4 +25,4 @@ This thesis project focuses on developing a model to recognize actions related t
 - Scikit-learn version: 1.5.2 or later
 
 ## Contact 
-If you have any questions or feedback, feel free to reach out to [your email] or create an issue in the GitHub repository.
+If you have any questions or feedback, feel free to reach out to sirghie.1993485@studenti.uniroma1.it or create an issue in the GitHub repository.
